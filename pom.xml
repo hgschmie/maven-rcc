@@ -11,7 +11,7 @@
 
   <groupId>de.softwareforge.tools</groupId>
   <artifactId>maven-rcc</artifactId>
-  <version>1.0-SNAPSHOT</version>
+  <version>1.0</version>
   <packaging>jar</packaging>
 
   <properties>
@@ -23,6 +23,7 @@
   <scm>
     <connection>scm:git:git://github.com/hgschmie/${project.artifactId}.git</connection>
     <developerConnection>scm:git:git@github.com:hgschmie/${project.artifactId}.git</developerConnection>
+    <tag>maven-rcc-1.0</tag>
   </scm>
 
   <dependencies>
